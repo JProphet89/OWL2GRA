@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="OWL2GRA:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OWL2GRA_jar</output-path>
+    <root id="root">
+      <element id="archive" name="OWL2GRA.jar">
+        <element id="module-output" name="OWL2GRA" />
+      </element>
+      <element id="library" level="project" name="json-simple-1.1.1" />
+      <element id="library" level="project" name="commons-io-2.4" />
+      <element id="library" level="project" name="owlapi-distribution-3.5.0" />
+      <element id="library" level="project" name="antlr-3.5.1-complete" />
+    </root>
+  </artifact>
+</component>

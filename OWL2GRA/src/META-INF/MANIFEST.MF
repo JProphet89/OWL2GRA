@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: json-simple-1.1.1.jar commons-io-2.4.jar owlapi-distributi
+ on-3.5.0.jar antlr-3.5.1-complete.jar
+Main-Class: OWL2GRA
+
